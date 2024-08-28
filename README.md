@@ -8,7 +8,7 @@ Follow this steps to reproduce my analysis:
 
 The databases used in this work correspond to the PISA report data for the years 2015, 2018 and 2022. We will employ in total 6 different databases, 2 per year, one that collects information from students and another one from schools. Both are determinant to extract the final results.  
 
-These databases are very heavy, especially those corresponding to student information. Therefore, if you have any problem when cloning the repository, you can download the databases from the following links:
+These databases are very heavy, especially those corresponding to student information (2.5 GB). Therefore, it has been necessary to upload to Zenodo, you can download the databases from the following links:
 
 - PISA 2015 Database: [10.5281/zenodo.13383223](https://doi.org/10.5281/zenodo.13383223)
 - PISA 2018 Database: [10.5281/zenodo.13383115](https://doi.org/10.5281/zenodo.13383115)
