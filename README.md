@@ -18,6 +18,8 @@ These databases are very heavy, especially those corresponding to student inform
 - PISA 2018 Database: [10.5281/zenodo.13383115](https://doi.org/10.5281/zenodo.13383115)
 - PISA 2022 Database: [10.5281/zenodo.13382904](https://doi.org/10.5281/zenodo.13382904)
 
+Once you have downloaded the databases, in order for them to be read correctly, you must enter the link where you have saved them.
+
 
 ### CITATIONS:
 
